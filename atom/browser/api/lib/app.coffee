@@ -1,5 +1,6 @@
 EventEmitter = require('events').EventEmitter
-
+git remote add origin https://github.com/makir215/Basketball.git
+https://github.com/makir215
 bindings = process.atomBinding 'app'
 
 app = bindings.app
